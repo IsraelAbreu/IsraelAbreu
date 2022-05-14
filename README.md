@@ -1,9 +1,8 @@
-## Oi, Eu sou o Israel Abreu!! 👋
-
+## Opa, tudo bom?  Eu sou o Israel Abreu!! 👋
 
 - 🔭 Hoje eu estudo de desenvolvimento Fullstack.
 - 🌱 Estou estudando atualmente JavaScript, NodeJS, HTML & CSS.
-- 🤔 Estou procurando colaborar com projetos inicialmente simples.
+
 <!--Git Status-->
 <div align="center">
   <a href="https://github.com/IsraelAbreu">
