@@ -1,7 +1,7 @@
 ## Opa, tudo bom?  Eu sou o Israel Abreu!! 👋
 
-- 🔭 Hoje eu estudo de desenvolvimento Fullstack.
-- 🌱 Estou estudando atualmente JavaScript, PHP, HTML & CSS, Bootstrap, Laravel
+- 🔭 Estudando de desenvolvimento Fullstack.
+- 🌱 Estou minhas principais stacks de conhecimento: JavaScript, PHP, HTML & CSS, Bootstrap, Laravel
 
 <!--Git Status-->
 <div align="center">
