@@ -1,6 +1,6 @@
 ## Opa, tudo bom?  Eu sou o Israel Abreu!! 👋
 
-- 🔭 Dev Backend PHP ❤️
+- 🔭 Dev Backend PHP
 - 🌱 Minhas principais stacks de conhecimento: JavaScript, PHP, HTML & CSS, Bootstrap, Laravel
 
 <!--Git Status-->
