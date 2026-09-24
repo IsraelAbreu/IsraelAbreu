@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Desenvolvedor fissurado em programação web. <br>🌱 Estudante de desenvolvimento Backend<br>
+🔭 Desenvolvedor Backend.
 
 
 ## 🌐 Socials:
