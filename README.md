@@ -1,5 +1,5 @@
 #   Sobre:
-.NET Developer.
+
 
 
 ## 🌐 Socials:
